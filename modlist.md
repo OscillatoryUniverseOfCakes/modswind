@@ -7,12 +7,38 @@
 - [Graphic Herbalism](https://www.nexusmods.com/morrowind/mods/46599)
 - [Weapon Sheathing](https://www.nexusmods.com/morrowind/mods/46069)
 
+### Интерфейс
+
+- [MWSE] [HUD Weapon Charge](https://www.nexusmods.com/morrowind/mods/47962)
+- [MWSE] [Seph's HUD Customizer](https://www.nexusmods.com/morrowind/mods/50588)
+- [OpenMW] [Simple HUD for OpenMW](https://www.nexusmods.com/morrowind/mods/53038)
+- [OpenMW] [Simple HUD - Mixed Layout](https://www.nexusmods.com/morrowind/mods/53692)
+- [MWSE] [Seph's Inventory Decorator](https://www.nexusmods.com/morrowind/mods/50582)
+- [MWSE] [Seph's Enemy Bars](https://www.nexusmods.com/morrowind/mods/50577)
+- [OpenMW] [OpenHUD](https://www.nexusmods.com/morrowind/mods/48893)
+- [MWSE] [Skyrim Style Quest Notifications](https://www.nexusmods.com/morrowind/mods/53175)
+- [MWSE] [Effects Timers](https://www.nexusmods.com/morrowind/mods/51787)
+- [MWSE] [Dynamic Class Images](https://www.nexusmods.com/morrowind/mods/52980)
+- [MWSE] [Skyrim Style Quest Notifications - Legendary Edition](https://www.nexusmods.com/morrowind/mods/53712)
+- [MWSE] [UI Expansion](https://www.nexusmods.com/morrowind/mods/46071) | <span style="background: linear-gradient(to bottom, red, red, red, blue, white, white); -webkit-background-clip: text;-webkit-text-fill-color: transparent;">[UI Expansion RU](https://www.nexusmods.com/morrowind/mods/54232)<span>
+
+### Механики
+
+- [No Thank You](https://www.nexusmods.com/morrowind/mods/49681)
+- [MWSE] [Bardic Inspiration](https://www.nexusmods.com/morrowind/mods/45441) | <span style="background: linear-gradient(to bottom, red, red, red, blue, white, white); -webkit-background-clip: text;-webkit-text-fill-color: transparent;">[Bardic Inspiration Ru](https://www.nexusmods.com/morrowind/mods/54427)<span>
+- [OpenMW] [Bardic Inspiration - OpenMW Compatibility](https://www.nexusmods.com/morrowind/mods/47636)
+- [OpenMW] [Bardic Inspiration - Tamriel Rebuilt Expansion](https://www.nexusmods.com/morrowind/mods/47642)
+- [OpenMW] [Sneak Tools for Morrowind (OpenMW)](https://www.nexusmods.com/morrowind/mods/44663)
+
 ## Квесты
+
+- [Of Bones and Barbarians An Ald Ruhn Blacksmith](https://www.nexusmods.com/morrowind/mods/53732)
 
 ## Патчи
 
 ### Модели
 
+- [Expansion Resource Conflicts](https://www.nexusmods.com/morrowind/mods/44532)
 - [Better Meshes plus Optimization](https://www.nexusmods.com/morrowind/mods/38170)
 - [Correct Meshes](https://www.nexusmods.com/morrowind/mods/39348)
 - [Correct UV Rocks](https://www.nexusmods.com/morrowind/mods/46104)
@@ -22,6 +48,12 @@
 
 - [Simply Walking (Remastered)](https://www.nexusmods.com/morrowind/mods/49785)
 - [Creature VFX Restoration](https://www.nexusmods.com/morrowind/mods/46194)
+- [Silt Strider Animation Restored](https://www.nexusmods.com/morrowind/mods/44150)
+
+### Геймплей
+
+- [Expansion Delay](https://www.nexusmods.com/morrowind/mods/47588) | <span style="background: linear-gradient(to bottom, red, red, red, blue, white, white); -webkit-background-clip: text;-webkit-text-fill-color: transparent;">[Expansion Delay RU](https://www.nexusmods.com/morrowind/mods/51556)<span>
+- [Half11's Misc Mods](https://www.nexusmods.com/morrowind/mods/47068)
 
 ### Weapon Sheathing
 
@@ -94,13 +126,23 @@
 ### Интерфейс
 
 - [HD Concept-art splash screen and main menu](https://www.nexusmods.com/morrowind/mods/43081)
-- []()
+- [Better Dialogue Font](https://www.nexusmods.com/morrowind/mods/36873) | <span style="background: linear-gradient(to bottom, red, red, red, blue, white, white); -webkit-background-clip: text;-webkit-text-fill-color: transparent;">[Better Dialogue Font RU](https://tesall.club/files/modi-dlya-morrowind/repleiseri-i-reteksturi/3106-better-dialogue-font)<span>
+- [Better Daedric Font](https://www.nexusmods.com/morrowind/mods/44540)
+- [OpenMW] [New Bethesda Intro For OpenMW](https://www.nexusmods.com/morrowind/mods/50268)
+- [Dunmer Saints Constellations (Kirkbridization)](https://www.nexusmods.com/morrowind/mods/52597)
+- [Faithful HD Cursors](https://www.nexusmods.com/morrowind/mods/50764)
+- [Faithful HD Cursors (1080p)](https://www.nexusmods.com/morrowind/mods/52082)
+- [MWSE] [MWSE Scroll Icons](https://www.nexusmods.com/morrowind/mods/54006)
 
 ### Руины
 - [Aesthesia - Stronghold textures](https://www.nexusmods.com/morrowind/mods/46445)
 - [Aesthesia - Stronghold Normal Maps](https://www.nexusmods.com/morrowind/mods/51012)
 
 ## Оверхоулы
+
+### NPC
+
+- [Fancy Barenziah](https://www.nexusmods.com/morrowind/mods/49009)
 
 ### Города
 
