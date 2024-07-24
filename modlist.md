@@ -1,10 +1,23 @@
 # Общий список плагинов
 
+[nexus guide](https://wiki.nexusmods.com/index.php/Morrowind_graphics_guide?_gl=1*1io4h1j*_ga*MTI4Mzk5OTIzMy4xNzEzMTIxODAw*_ga_N0TELNQ37M*MTcxMzIyMDM3MS40LjEuMTcxMzIyNDc4Ny4wLjAuMA..)
+
 ## Аддоны
 
-- []()
+- [Tamriel_Data](https://www.nexusmods.com/morrowind/mods/44537)
+- [OAAB_Data](https://www.nexusmods.com/morrowind/mods/49042)
+- [Solstheim - Tomb of the Snow Prince](https://www.nexusmods.com/morrowind/mods/46810)
 
-## <span style="background: linear-gradient(to right, red, orange , yellow, green, cyan, blue, violet, purple); -webkit-background-clip: text;-webkit-text-fill-color: transparent;">Гей</span>мплей
+### Tamriel Data
+
+- [Tamriel Data Texture Upscale](https://www.nexusmods.com/morrowind/mods/54947)
+
+### Tamriel Rebuilt
+
+- [Unique Tavern Signs for Tamriel Rebuilt](https://www.nexusmods.com/morrowind/mods/46794)
+- [The Tea Shop in Old Ebonheart](https://www.nexusmods.com/morrowind/mods/54507)
+
+## <span style="background: linear-gradient(to right, red, orange, yellow, green, cyan, blue, violet, purple); -webkit-background-clip: text;-webkit-text-fill-color: transparent;">Гей</span>мплей
 
 - [Graphic Herbalism](https://www.nexusmods.com/morrowind/mods/46599)
 - [Weapon Sheathing](https://www.nexusmods.com/morrowind/mods/46069)
@@ -36,33 +49,56 @@
 - [MWSE] [Plaguebearer](https://www.nexusmods.com/morrowind/mods/45760)
 - [MWSE] [Sound Spell Sound Effect](https://www.nexusmods.com/morrowind/mods/43300)
 - [True Scourge](https://www.nexusmods.com/morrowind/mods/43294)
+- [MWSE] [Pincushion](https://www.nexusmods.com/morrowind/mods/46862)
+- [MWSE] [Immersive Tables](https://www.nexusmods.com/morrowind/mods/50389) | <span style="background: linear-gradient(to bottom, red, red, red, blue, gray, gray); -webkit-background-clip: text;-webkit-text-fill-color: transparent;">[Immersive Tables - Russian Translation](https://www.nexusmods.com/morrowind/mods/51557)<span>
+- [Functional Slave Markets](https://www.nexusmods.com/morrowind/mods/49583)
+- <span style="background: linear-gradient(to bottom, red, red, red, blue, gray, gray); -webkit-background-clip: text;-webkit-text-fill-color: transparent;">[Joy of Painting Russian Translation](https://www.nexusmods.com/morrowind/mods/54445)</span>- <span style="background: linear-gradient(to bottom, red, red, red, blue, gray, gray); -webkit-background-clip: text;-webkit-text-fill-color: transparent;">[Ultimate Fishing RU](https://www.nexusmods.com/morrowind/mods/54011)</span>
 
 ### Окружение
 
 - [MWSE] [Shattered Stones](https://www.nexusmods.com/morrowind/mods/45105)
+- [MWSE] [Fallen Ash](https://www.nexusmods.com/morrowind/mods/48711)
 - [Store Entrance Chimes](https://www.nexusmods.com/morrowind/mods/44586)
 - [Nocturnal Moths](https://www.nexusmods.com/morrowind/mods/44148)
 - [Cave Drips](https://www.nexusmods.com/morrowind/mods/43488)
+- [Keg Drip](https://www.nexusmods.com/morrowind/mods/47903)
 - [Flies](https://www.nexusmods.com/morrowind/mods/43481)
+- [Fireflies](https://www.nexusmods.com/morrowind/mods/51443)
 - [Tunnel Cough](https://www.nexusmods.com/morrowind/mods/47603)
 - [Mistify](https://www.nexusmods.com/morrowind/mods/48112)
 - [Parasol Particles](https://www.nexusmods.com/morrowind/mods/47755)
 - [Dwemer Lightning Rods](https://www.nexusmods.com/morrowind/mods/50236)
 - [Glowbugs](https://www.nexusmods.com/morrowind/mods/50538/)
 - [Vapourmist - A Cloud and Mist Mod](https://www.nexusmods.com/morrowind/mods/50517)
+- [Transporter Lights](https://www.nexusmods.com/morrowind/mods/48050)
+- [Light the Path](https://www.nexusmods.com/morrowind/mods/54614)
+- [Immersive Nights](https://www.nexusmods.com/morrowind/mods/46461)
+- [Heartthrum](https://www.nexusmods.com/morrowind/mods/47178)
+- [OpenMW] [Warriors of the Ghost Sea](https://www.nexusmods.com/morrowind/mods/52307)
+- [OpenMW] [Red Mountain Tremors OpenMW](https://www.nexusmods.com/morrowind/mods/53637)
+
+### Музыка
+
+- [OpenMW] [Dynamic Music](https://www.nexusmods.com/morrowind/mods/53568)
 
 ### Прочее
 
+- <span style="background: linear-gradient(to bottom, red, red, red, blue, gray, gray); -webkit-background-clip: text;-webkit-text-fill-color: transparent;">[Улучшенная озвучка. Норды и Орки I PR Voice Enhanced](https://www.fullrest.ru/files/prvoiceenhanced)<span>
 - [MWSE] [Wading in Water MW](https://www.nexusmods.com/morrowind/mods/48783)
+- [Rollies](https://www.nexusmods.com/morrowind/mods/46784)
 
 ## Квесты
 
+- [Crassius Curio's Big Balls](https://www.nexusmods.com/morrowind/mods/49931)
 - [Of Bones and Barbarians An Ald Ruhn Blacksmith](https://www.nexusmods.com/morrowind/mods/53732)
 - [Of Musk and Mer - A Sadrith Mora Tale](https://www.nexusmods.com/morrowind/mods/52777)
 - [Of Melodies and Moonlight - A Sadrith Mora Artist](https://www.nexusmods.com/morrowind/mods/53307)
 - [Of Murk and Mussels - A Sadrith Mora Trader](https://www.nexusmods.com/morrowind/mods/53238)
 - [Dreaming Terrors](https://www.nexusmods.com/morrowind/mods/44690)
 - [The Song of the Grazelands](https://www.nexusmods.com/morrowind/mods/54652)
+- <span style="background: linear-gradient(to bottom, red, red, red, blue, gray, gray); -webkit-background-clip: text;-webkit-text-fill-color: transparent;">[Russian translate for Quests for Clans and Vampire Legends](https://www.nexusmods.com/morrowind/mods/51672)</span>
+- [Of Musk and Mer - A Sadrith Mora Tale](https://www.nexusmods.com/morrowind/mods/52777)
+- [Telvanni questline addon - Arvs-Spelun](https://www.nexusmods.com/morrowind/mods/51449)
 
 ## Патчи
 
@@ -85,6 +121,8 @@
 
 - [Expansion Delay](https://www.nexusmods.com/morrowind/mods/47588) | <span style="background: linear-gradient(to bottom, red, red, red, blue, gray, gray); -webkit-background-clip: text;-webkit-text-fill-color: transparent;">[Expansion Delay RU](https://www.nexusmods.com/morrowind/mods/51556)<span>
 - [Half11's Misc Mods](https://www.nexusmods.com/morrowind/mods/47068)
+- [Diseases Restored](https://www.nexusmods.com/morrowind/mods/45228)
+- [Blight Storms Restored](https://www.nexusmods.com/morrowind/mods/45558)
 
 ### Weapon Sheathing
 
@@ -102,6 +140,8 @@
 ## Реплейсеры
 
 ### Персонажи
+
+- [Dunmer Nobles Overhaul compatibility patch for Vanilla and Westly's Heads](https://www.nexusmods.com/morrowind/mods/48313)
 
 #### Тела
 
@@ -141,10 +181,27 @@
 ### Природа
 
 - [MWSE] [I Lava Good Mesh Replacer](https://www.nexusmods.com/morrowind/mods/49605)
+- [Caverns Revamp](https://www.nexusmods.com/morrowind/mods/50191)
+- [Vibrant Ivy and trellis additions](https://www.nexusmods.com/morrowind/mods/49863)
+
+### Архитектура
+
+#### Imperial
+
+- [Imperial Towns Revamp](https://www.nexusmods.com/morrowind/mods/49735)
+
+#### Daedric
+
+- [Daedric Ruins (Half-Revamped)](https://www.nexusmods.com/morrowind/mods/51674)
+
+#### Indoril
+
+- [Inscribed Maar Gan Rock](https://www.nexusmods.com/morrowind/mods/49426)
 
 ### Мелочевка
 
 - [Crystal Soul Gems](https://www.nexusmods.com/morrowind/mods/48300)
+- [Soulgem Replacer](https://www.nexusmods.com/morrowind/mods/44117)
 - [Dunmer Lanterns Replacer](https://www.nexusmods.com/morrowind/mods/43219)
 
 ### Сборники
@@ -189,6 +246,10 @@
 
 - [Morrowind Enhanced Textures](https://www.nexusmods.com/morrowind/mods/46221)
 
+### Разное
+
+- [Inscribed Maar Gan Rock](https://www.nexusmods.com/morrowind/mods/49426)
+
 ### Интерфейс
 
 - [HD Concept-art splash screen and main menu](https://www.nexusmods.com/morrowind/mods/43081)
@@ -199,6 +260,11 @@
 - [Faithful HD Cursors](https://www.nexusmods.com/morrowind/mods/50764)
 - [Faithful HD Cursors (1080p)](https://www.nexusmods.com/morrowind/mods/52082)
 - [MWSE] [MWSE Scroll Icons](https://www.nexusmods.com/morrowind/mods/54006)
+- [Morrowind Molten Menu](https://www.nexusmods.com/morrowind/mods/48364)
+- [De-outlandered main menu and Daedric UI textures](https://www.nexusmods.com/morrowind/mods/46805)
+- [Menu and Splash Screens](https://www.nexusmods.com/morrowind/mods/49930)
+- [Morrowind Definitive Menu](https://www.nexusmods.com/morrowind/mods/50080)
+- [Befitting Crosshair Replacement](https://www.nexusmods.com/morrowind/mods/47486)
 
 ### Руины
 
@@ -212,13 +278,19 @@
 #### Daedric
 - [Daedric Intervention](https://www.nexusmods.com/morrowind/mods/44487)
 
+#### 6th House
+
+- [6th House - Glowing Things](https://www.nexusmods.com/morrowind/mods/48764)
+
 ### Природа
 
 - [skies .iv](https://www.nexusmods.com/morrowind/mods/43311)
+- [MWSE] [Better Sun](https://www.nexusmods.com/morrowind/mods/49886)
 - [Enhanced Night for skies.iv](https://www.nexusmods.com/morrowind/mods/46850)
 - [OpenMW] [Oh God Snow for Skies.iv](https://www.nexusmods.com/morrowind/mods/50509)
 - [Swamp Rocks](https://www.nexusmods.com/morrowind/mods/45673)
 - [Better Barnacles](https://www.nexusmods.com/morrowind/mods/43605)
+- [Vanilla water textures for OAAB and TR fake water meshes](https://www.nexusmods.com/morrowind/mods/50459)
 
 ### Архитектура
 
@@ -238,20 +310,61 @@
 - [OpenMW] [Bell Towers of Vvardenfell Directional Sound for OpenMW](https://www.nexusmods.com/morrowind/mods/53037)
 - [Gates of Ascadia](https://www.nexusmods.com/morrowind/mods/53547)
 - [The Ashlanders](https://www.nexusmods.com/morrowind/mods/49221)
+- [Ports Of Vvardenfell](https://www.nexusmods.com/morrowind/mods/44823)
+- [Maintained Redoran Walls](https://www.nexusmods.com/morrowind/mods/46888)
+
+#### Thirsk
+
+- [Interiors of Solstheim](https://www.nexusmods.com/morrowind/mods/44451)
+
+#### Mournhold
+
+- [Immersive Mournhold](https://www.nexusmods.com/morrowind/mods/49353)
+
+#### Ald'Ruhn
+
+- [Ald'ruhn](https://www.nexusmods.com/morrowind/mods/50120)
+- [Ald'ruhn-under-Skar](https://www.nexusmods.com/morrowind/mods/50332)
+- [Ald-ruhn X](https://www.nexusmods.com/morrowind/mods/46898)
+- [Ald'ruhn Architecture Variety](https://www.nexusmods.com/morrowind/mods/53939)
+
+#### Ald Velothi
+
+- [URH - Ald Velothi](https://www.nexusmods.com/morrowind/mods/51590)
 
 #### Vivec
 
 - [Vivec Lighthouse](https://www.nexusmods.com/morrowind/mods/52019)
 - [The Great Seawall of Vivec](https://www.nexusmods.com/morrowind/mods/53544)
+- [Library of Vivec Enhanced](https://www.nexusmods.com/morrowind/mods/50181)
+- [Vivec Palace Illuminated - REDUX](https://www.nexusmods.com/morrowind/mods/48681)
+- [Vivec City](https://www.nexusmods.com/morrowind/mods/50111)
+- [Rethinking Vivec](https://www.nexusmods.com/morrowind/mods/48256)
+- [The Striderport in Vivec](https://www.nexusmods.com/morrowind/mods/49492)
+- [Less empty cantons of Vivec](https://www.nexusmods.com/morrowind/mods/51592)
+
+#### Ebonheart
+
+- [The Ebonheart Lighthouse](https://www.nexusmods.com/morrowind/mods/53417)
+- [Imperium - Castle Ebonheart](https://www.nexusmods.com/morrowind/mods/51120)
+
+#### Molag Mar
+
+- [Molag Mar](https://www.nexusmods.com/morrowind/mods/49005)
+- [Ruined Molag Mar](https://www.nexusmods.com/morrowind/mods/52473)
 
 #### Maar Gan
 
 - [Maar Gan Shrine](https://www.nexusmods.com/morrowind/mods/52175)
+- [Maar Gan - Town of Pilgrimage](https://www.nexusmods.com/morrowind/mods/53919)
 
 #### Seyda Neen
 
 - [Seyda Neen](https://www.nexusmods.com/morrowind/mods/51000)
+- [Immersive Seyda Neen](https://www.nexusmods.com/morrowind/mods/44441)
 - [Shipyards of Vvardenfell](https://www.nexusmods.com/morrowind/mods/51928)
+- [Arrille's Tradehouse Third Floor](https://www.nexusmods.com/morrowind/mods/52986)
+- [Lived Towns - Seyda Neen](https://www.nexusmods.com/morrowind/mods/46703)
 
 #### Balmora
 
@@ -259,6 +372,16 @@
 - [Brevur of Balmora - Finally Some Good Statue Mod](https://www.nexusmods.com/morrowind/mods/47557)
 - [Atmospheric South Wall Cornerclub](https://www.nexusmods.com/morrowind/mods/49229)
 - [Do You Get to High Town Very Often](https://www.nexusmods.com/morrowind/mods/53306)
+- [Dallara Balmora](https://www.nexusmods.com/morrowind/mods/49669)
+- [Even Seedier Eight Plates](https://www.nexusmods.com/morrowind/mods/49236)
+- [OAAB Balmora Redecorated](https://www.nexusmods.com/morrowind/mods/42580)
+- [Balmora - Seat of Power of House Hlaalu](https://www.nexusmods.com/morrowind/mods/48807)
+- [Hlaalu Council Manor Overhaul](https://www.nexusmods.com/morrowind/mods/50164)
+
+#### Caldera
+
+- [Caldera](https://www.nexusmods.com/morrowind/mods/50314)
+- [Elegant Verick Gemain's shop](https://www.nexusmods.com/morrowind/mods/49729)
 
 #### Buckmoth Fort
 
@@ -269,6 +392,8 @@
 - [Shipyards of Vvardenfell](https://www.nexusmods.com/morrowind/mods/51928)
 - [Improved Telvanni Council House](https://www.nexusmods.com/morrowind/mods/52270)
 - [OAAB Market](https://www.nexusmods.com/morrowind/mods/51687)
+- [Magical lights for Telvanni](https://www.nexusmods.com/morrowind/mods/49453)
+- [Telvanni Lighthouse in Sadrith Mora](https://www.nexusmods.com/morrowind/mods/49461)
 
 #### Suran
 
@@ -276,15 +401,24 @@
 - [Suran - The Pearl of the Ascadian Isles](https://www.nexusmods.com/morrowind/mods/48675)
 - [White Suran 2 - MD Edition](https://www.nexusmods.com/morrowind/mods/44153)
 - [White Suran - White Temple and Roadmarkers Addon](https://www.nexusmods.com/morrowind/mods/48679)
+- [Hanging Gardens of Suran](https://www.nexusmods.com/morrowind/mods/53316)
 
 #### Gnaar Mok
 
 - [Shipyards of Vvardenfell](https://www.nexusmods.com/morrowind/mods/51928)
 
+#### Hla Oad
+
+- [Hla Oad](https://www.nexusmods.com/morrowind/mods/49035)
+
 #### Vos
 
 - [Red Vos](https://www.nexusmods.com/morrowind/mods/44729)
 - [OAAB Grazelands](https://www.nexusmods.com/morrowind/mods/49075)
+
+#### Tel Aruhn
+
+- [Tel Aruhn Chronicles](https://www.nexusmods.com/morrowind/mods/49171)
 
 #### Tel Vos
 
@@ -299,18 +433,45 @@
 
 - [Tel Branora - Domain of the Mad Mistress](https://www.nexusmods.com/morrowind/mods/51152)
 
+#### Dagon Fel
+
+- [Nordic Dagon Fel](https://www.nexusmods.com/morrowind/mods/49603)
+- [Dagon Fel Lighthouse](https://www.nexusmods.com/morrowind/mods/52291)
+- [Dagon Fel Mill Redux](https://www.nexusmods.com/morrowind/mods/50067)
+
+### Форты
+
+- [Moonmoth Legion Fort Overhaul](https://www.nexusmods.com/morrowind/mods/48835)
+- [Wolverine Hall Overhaul](https://www.nexusmods.com/morrowind/mods/46672)
+- [The Wolverine Hall](https://www.nexusmods.com/morrowind/mods/52199)
+- [Dallara Imperial Forts](https://www.nexusmods.com/morrowind/mods/49745)
+
 ### Пещеры
+
+- [Less disclosed Addamasartus](https://www.nexusmods.com/morrowind/mods/49271)
 
 ### Руины
 
 - [Berandas Overhaul - Redone RU](https://www.nexusmods.com/morrowind/mods/53523)
+- [Holamayan Island](https://www.nexusmods.com/morrowind/mods/50996)
 - [Corprusarium - Sorrow Heart of Tel Fyr](https://www.nexusmods.com/morrowind/mods/53280)
 - [Less disclosed Addamasartus](https://www.nexusmods.com/morrowind/mods/49271)
+- [Sanctus Shrine](https://www.nexusmods.com/morrowind/mods/47841)
+
+### Корабли
+
+- [OAAB Shipwrecks](https://www.nexusmods.com/morrowind/mods/51364)
 
 ### Земли
 
 - [Faces of Vel - Ash Mire](https://www.nexusmods.com/morrowind/mods/44200)
 - [Remiros' Groundcover](https://www.nexusmods.com/morrowind/mods/46733)
+- [The Stonewood pass reworked](https://www.nexusmods.com/morrowind/mods/49464)
+- [Concept Art Molag Amur Region - The Great Scathes](https://www.nexusmods.com/morrowind/mods/52971)
+
+#### Solstheim
+
+- [Fourth Era Solstheim](https://www.nexusmods.com/morrowind/mods/44283)
 
 #### Grazeland
 
@@ -334,6 +495,7 @@
 - [Nautlius Helmet and Spear](https://www.nexusmods.com/morrowind/mods/49323)
 - [One Handed Spears and Halberds plus Javelins](https://www.nexusmods.com/morrowind/mods/27458)
 - [Netch Adamantium Armor v.2](https://www.nexusmods.com/morrowind/mods/1430)
+- [Netch adamantium armour integrated](https://www.nexusmods.com/morrowind/mods/49641)
 - ['Foyadas of Blood' Dai-Katana and Urn Helmet](https://www.nexusmods.com/morrowind/mods/51555)
 - [An Issue Of Thrust](https://www.nexusmods.com/morrowind/mods/44650)
 
@@ -347,12 +509,12 @@
 - [Dandion's MacKom's-Like Heads for Morrowind Comes Alive](https://www.nexusmods.com/morrowind/mods/50232)
 - [OpenMW] [openMW Patch For Morrowind Comes Alive](https://www.nexusmods.com/morrowind/mods/51824)
 
-## Аддоны
-
-- [Solstheim - Tomb of the Snow Prince](https://www.nexusmods.com/morrowind/mods/46810)
-
-
 ## Локации
+
+### Города
+
+- [Hla Odai](https://www.nexusmods.com/morrowind/mods/51942)
+- [Tel Morgana](https://www.nexusmods.com/morrowind/mods/43930)
 
 ### Дома
 
@@ -368,3 +530,6 @@
 ### Другие
 
 - [Old Vos Tradepost](https://www.nexusmods.com/morrowind/mods/44315)
+- [Guar Stables of Vivec](https://www.nexusmods.com/morrowind/mods/50118)
+- [Balmora Docks District](https://www.nexusmods.com/morrowind/mods/47659)
+- [Tales from the Ashlands - The Great Hive Baan Binif](https://www.nexusmods.com/morrowind/mods/51419)
