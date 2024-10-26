@@ -1,6 +1,7 @@
 # Общий список плагинов
 
 [nexus guide](https://wiki.nexusmods.com/index.php/Morrowind_graphics_guide?_gl=1*1io4h1j*_ga*MTI4Mzk5OTIzMy4xNzEzMTIxODAw*_ga_N0TELNQ37M*MTcxMzIyMDM3MS40LjEuMTcxMzIyNDc4Ny4wLjAuMA..)
+На сегодня - просмотрел все моды за лето 2024
 
 ## Аддоны
 
@@ -16,6 +17,7 @@
 
 - [Unique Tavern Signs for Tamriel Rebuilt](https://www.nexusmods.com/morrowind/mods/46794)
 - [The Tea Shop in Old Ebonheart](https://www.nexusmods.com/morrowind/mods/54507)
+- [Devilish Sky Render Riding](https://www.nexusmods.com/morrowind/mods/54995)
 
 ## <span style="background: linear-gradient(to right, red, orange, yellow, green, cyan, blue, violet, purple); -webkit-background-clip: text;-webkit-text-fill-color: transparent;">Гей</span>мплей
 
@@ -38,6 +40,14 @@
 - [MWSE] [UI Expansion](https://www.nexusmods.com/morrowind/mods/46071) | <span style="background: linear-gradient(to bottom, red, red, red, blue, gray, gray); -webkit-background-clip: text;-webkit-text-fill-color: transparent;">[UI Expansion RU](https://www.nexusmods.com/morrowind/mods/54232)<span>
 - [MWSE] [UI Expansion Better Training Icons](https://www.nexusmods.com/morrowind/mods/51190)
 
+### Боевка
+
+- [OpenMW] [Mercy - Combat AI Overhaul](https://www.nexusmods.com/morrowind/mods/55064)
+
+### Магия
+
+- [OpenMW] [Blood Magic](https://www.nexusmods.com/morrowind/mods/55069)
+
 ### Механики
 
 - [No Thank You](https://www.nexusmods.com/morrowind/mods/49681)
@@ -53,6 +63,7 @@
 - [MWSE] [Immersive Tables](https://www.nexusmods.com/morrowind/mods/50389) | <span style="background: linear-gradient(to bottom, red, red, red, blue, gray, gray); -webkit-background-clip: text;-webkit-text-fill-color: transparent;">[Immersive Tables - Russian Translation](https://www.nexusmods.com/morrowind/mods/51557)<span>
 - [Functional Slave Markets](https://www.nexusmods.com/morrowind/mods/49583)
 - <span style="background: linear-gradient(to bottom, red, red, red, blue, gray, gray); -webkit-background-clip: text;-webkit-text-fill-color: transparent;">[Joy of Painting Russian Translation](https://www.nexusmods.com/morrowind/mods/54445)</span>- <span style="background: linear-gradient(to bottom, red, red, red, blue, gray, gray); -webkit-background-clip: text;-webkit-text-fill-color: transparent;">[Ultimate Fishing RU](https://www.nexusmods.com/morrowind/mods/54011)</span>
+- [MWSE] [Eye of Night Toggle](https://www.nexusmods.com/morrowind/mods/55039)
 
 ### Окружение
 
@@ -77,15 +88,22 @@
 - [OpenMW] [Warriors of the Ghost Sea](https://www.nexusmods.com/morrowind/mods/52307)
 - [OpenMW] [Red Mountain Tremors OpenMW](https://www.nexusmods.com/morrowind/mods/53637)
 
+### NPC
+
+- [OpenMW] [Traveling Guar Riders](https://www.nexusmods.com/morrowind/mods/52788)
+- [Repopulated Morrowind](https://www.nexusmods.com/morrowind/mods/51174)
+
 ### Музыка
 
 - [OpenMW] [Dynamic Music](https://www.nexusmods.com/morrowind/mods/53568)
+- [MUSE Music Expansion - Redoran](https://www.nexusmods.com/morrowind/mods/55082)
 
 ### Прочее
 
 - <span style="background: linear-gradient(to bottom, red, red, red, blue, gray, gray); -webkit-background-clip: text;-webkit-text-fill-color: transparent;">[Улучшенная озвучка. Норды и Орки I PR Voice Enhanced](https://www.fullrest.ru/files/prvoiceenhanced)<span>
 - [MWSE] [Wading in Water MW](https://www.nexusmods.com/morrowind/mods/48783)
 - [Rollies](https://www.nexusmods.com/morrowind/mods/46784)
+- [OpenMW] [Devilish Alcohol Overhaul](https://www.nexusmods.com/morrowind/mods/55038)
 
 ## Квесты
 
@@ -99,8 +117,11 @@
 - <span style="background: linear-gradient(to bottom, red, red, red, blue, gray, gray); -webkit-background-clip: text;-webkit-text-fill-color: transparent;">[Russian translate for Quests for Clans and Vampire Legends](https://www.nexusmods.com/morrowind/mods/51672)</span>
 - [Of Musk and Mer - A Sadrith Mora Tale](https://www.nexusmods.com/morrowind/mods/52777)
 - [Telvanni questline addon - Arvs-Spelun](https://www.nexusmods.com/morrowind/mods/51449)
+- [Drinking and Delving](https://www.nexusmods.com/morrowind/mods/54777)
 
 ## Патчи
+
+- [Unofficial Morrowind Official Plugins Patched](https://www.nexusmods.com/morrowind/mods/43931) | <span style="background: linear-gradient(to bottom, red, red, red, blue, gray, gray); -webkit-background-clip: text;-webkit-text-fill-color: transparent;">[Unofficial Morrowind Official Plugins Patched](https://www.nexusmods.com/morrowind/mods/55030)</span>
 
 ### Модели
 
@@ -138,6 +159,11 @@
 - [Redaynia Restored](https://www.nexusmods.com/morrowind/mods/47646)
 
 ## Реплейсеры
+
+### Шейдеры
+
+- [OpenMW] [OpenMW (0.49) Distortion Effects](https://www.nexusmods.com/morrowind/mods/55027)
+- [OpenMW] [OpenMW Distortion Effects Patches](https://www.nexusmods.com/morrowind/mods/55032?tab=files)
 
 ### Персонажи
 
@@ -233,6 +259,7 @@
 #### Iron
 
 - [Correct Iron Warhammer](https://www.nexusmods.com/morrowind/mods/43576)
+- [Steel Dagger Replacer](https://www.nexusmods.com/morrowind/mods/54974)
 
 #### Dwemer
 
@@ -274,9 +301,11 @@
 
 #### Dwemer
 - [Вседвемерский Ретекстур](https://www.fullrest.ru/files/tyd_full_dwm_rtx)
+- [Full Dwemer Retexture - Normal Maps](https://www.nexusmods.com/morrowind/mods/55061)
 
 #### Daedric
 - [Daedric Intervention](https://www.nexusmods.com/morrowind/mods/44487)
+- [Daedric Ruins - Arkitektora of Vvardenfell - Normal Maps](https://www.nexusmods.com/morrowind/mods/55060)
 
 #### 6th House
 
@@ -457,6 +486,9 @@
 - [Corprusarium - Sorrow Heart of Tel Fyr](https://www.nexusmods.com/morrowind/mods/53280)
 - [Less disclosed Addamasartus](https://www.nexusmods.com/morrowind/mods/49271)
 - [Sanctus Shrine](https://www.nexusmods.com/morrowind/mods/47841)
+- [Dwemer Legacy Reforged - Druscashti](https://www.nexusmods.com/morrowind/mods/55073)
+- [Dwemer Legacy Reforged - Arkngthunch-Sturdumz](https://www.nexusmods.com/morrowind/mods/54807)
+- [Nchurdamz Falls](https://www.nexusmods.com/morrowind/mods/51109)
 
 ### Корабли
 
@@ -489,6 +521,8 @@
 - [BsaReg](https://www.fullrest.ru/files/bsareg)
 
 ## Оружие и доспехи
+
+- [Dwemer Throwing Vials](https://www.nexusmods.com/morrowind/mods/55085)
 
 - [Indoril Spear](https://www.nexusmods.com/morrowind/mods/42137)
 - [Racer Dust Arms and Armor](https://www.nexusmods.com/morrowind/mods/49485)
